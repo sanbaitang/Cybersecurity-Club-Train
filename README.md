@@ -10,14 +10,12 @@
   1. 俱乐部骨干的技术培训
 
   2. 俱乐部成员的技术分享
-
 - 2023下半年分享会内容以俱乐部骨干的技术培训为主
-
 - 技术培训内容包括：
 
   - 实用工具的使用方法
-
-  - 简单的网安知识
+- 简单的网安知识
+- 由于培训的准备太过于仓促，所以需要一点时间重新整理课程的文件
 
 # 时间表
 
@@ -38,9 +36,7 @@
 
 本系列课程放置于lecture目录下，命名为`lecx.md`。这些文档使用**reveal-md**。 你可以选择以下两种方式的其中一种来阅读`lec`
 
-- 直接在`github`上看`md`文档
+- `github`上找到`lecture`文件夹，阅读`md`文件
+- 克隆本仓库，在仓库根目录下打开lec对应的`html`文件。(可能要先在本地配置好reveal-md环境)
 
-- 用`reveal-md` 将markdown转换为网页渲染的ppt
-  1. 在本地搭建`reveal-md`环境：[reveal-md转换PPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/648482585)
-  2. 克隆本仓库
-  3. 在`lecture`文件夹下，打开cmd, 输入`reveal-md <file name>`
+​       在本地搭建`reveal-md`环境：[reveal-md转换PPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/648482585)
