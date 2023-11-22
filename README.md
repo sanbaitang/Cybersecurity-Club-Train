@@ -37,6 +37,4 @@
 本系列课程放置于lecture目录下，命名为`lecx.md`。这些文档使用**reveal-md**。 你可以选择以下两种方式的其中一种来阅读`lec`
 
 - `github`上找到`lecture`文件夹，阅读`md`文件
-- 克隆本仓库，在仓库根目录下打开lec对应的`html`文件。(可能要先在本地配置好reveal-md环境)
-
-​       在本地搭建`reveal-md`环境：[reveal-md转换PPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/648482585)
+- 克隆本仓库，在仓库根目录下打开lec对应的`html`文件。

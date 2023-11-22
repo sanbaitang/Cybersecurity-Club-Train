@@ -52,10 +52,9 @@ revealOptions:
 
 3. markdown的基本语法
 
-4. 介绍可以使用markdown的环境
+4. 介绍可以使用markdown的工具
 
 
-  
 
 <!--v-->
 
@@ -158,6 +157,57 @@ revealOptions:
 
 <!--v-->
 
+## 有关markdown的文档
+
+**学习markdown的最好方法就是开始创作文章，最忌讳的就是只是看看，不真正自己动手写文档。** ~~只要写得多了，自然就会记住~~
+
+当你忘记语法时可以现查文档
+
+- [Markdown 基本语法 | Markdown 官方教程](https://markdown.com.cn/basic-syntax/)
+
+- CommonMark的文档：[spec.commonmark.org](https://spec.commonmark.org/0.30/)
+
+  
+
+**其他软件的文档：**
+
+- GitHub GFM 规范： [github.github.com/gfm](https://github.github.com/gfm/)
+- Typora 规范：[support.typora.io](https://support.typora.io/Markdown-Reference/)
 
 
- 
+
+<!--v-->
+
+<div class="middle center">
+<div style="width: 100%">
+
+#  第四部分：可以使用markdown的工具
+
+ </div>
+
+</div>
+
+<!--v-->
+
+
+
+## 使用markdown的工具
+
+**专门用于做笔记的软件：**
+
+- `MarkText`  开源的markdown编辑器。 github仓库：[marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (github.com)](https://github.com/marktext/marktext)
+- `obsidian` 我正在使用的markdown编辑器 官网：[Obsidian - Sharpen your thinking](https://obsidian.md/)
+- `typora` 不开源的付费markdown编辑器。 我个人不推荐，因为没有分屏预览
+
+**代码编辑器，同时也可以用markdown语法做笔记**
+
+- `vscode + Markdown Preview Enhanced插件` 官方文档：[简介 (shd101wyy.github.io)](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) ~~功能非常强大，但我个人不习惯用vscode记笔记~~
+
+- `sublime Text 3  + markdown插件` 知乎上其他人写的入门文章：[快速上手Subline Text的几个Markdown插件 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/649764489)
+
+
+
+<!--v-->
+
+
+
