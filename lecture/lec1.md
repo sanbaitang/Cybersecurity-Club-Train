@@ -159,7 +159,7 @@ revealOptions:
 
 ## 有关markdown的文档
 
-**学习markdown的最好方法就是开始创作文章，最忌讳的就是只是看看，不真正自己动手写文档。** ~~只要写得多了，自然就会记住~~
+**学习markdown的最好方法就是开始创作文章，最忌讳的就是只是看看，不真正自己动手写文章。** ~~只要写得多了，自然就会记住~~
 
 当你忘记语法时可以现查文档
 
@@ -204,6 +204,8 @@ revealOptions:
 - `vscode + Markdown Preview Enhanced插件` 官方文档：[简介 (shd101wyy.github.io)](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) ~~功能非常强大，但我个人不习惯用vscode记笔记~~
 
 - `sublime Text 3  + markdown插件` 知乎上其他人写的入门文章：[快速上手Subline Text的几个Markdown插件 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/649764489)
+
+
 
 
 
