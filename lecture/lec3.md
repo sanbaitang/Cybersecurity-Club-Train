@@ -27,8 +27,6 @@ revealOptions:
 
 1.  使用github page 快速部署网站
 
-
-
 <!--v-->
 
 ## 本次课程分为以下几部分：

@@ -25,14 +25,13 @@
 | -------- | -------------------------- | ----------------------------------- | -------------------------------------------------------- |
 | **lec0** | 计算机学生需要了解的知识   | 随仓库的更新而更新 ~~(可能会咕咕)~~ | [sanbaitang (github.com)](https://github.com/sanbaitang) |
 | **lec1** | markdown的语法以及实际应用 | 2023/11/18                          | [sanbaitang (github.com)](https://github.com/sanbaitang) |
-| **lec2** | 第一个web漏洞--sql注入     |                                     |                                                          |
+| **lec2** | 第一个web漏洞--sql注入     | 2023/12/3  暂停一周                 | 副会长                                                   |
+| **lec3** | git以及github的使用        | 下学期                              | [sanbaitang (github.com)](https://github.com/sanbaitang) |
 
 **之后的培训计划：**
 
-1. git以及github的使用
-
-2. vim
-3. 如何调试代码
+1. vim
+2. 如何调试代码
 
 
 
