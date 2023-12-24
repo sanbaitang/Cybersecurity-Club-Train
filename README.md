@@ -1,5 +1,5 @@
 # Cybersecurity-Club-Train
->  感谢浙江大学「实用技能拾遗」课程提供的`css`样式 [TonyCrane/PracticalSkillsTutorial: 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库 (github.com)](https://github.com/TonyCrane/PracticalSkillsTutorial)
+
 
 
 
@@ -47,7 +47,4 @@
 
 # 阅读lec方式
 
-本系列课程放置于lecture目录下，命名为`lecx.md`。这些文档使用**reveal-md**。 你可以选择以下两种方式的其中一种来阅读`lec`
-
-- `github`上找到`lecture`文件夹，阅读`md`文件
-- 克隆本仓库，在仓库根目录下打开lec对应的`html`文件。
+本系列课程放置于lecture目录下，命名为`lecx.md`。`github`上找到`lecture`文件夹，阅读`md`文件

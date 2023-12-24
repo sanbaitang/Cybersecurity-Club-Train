@@ -1,25 +1,8 @@
----
-title: lec1 - markdown的语法以及应用
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: simple
-highlightTheme: github
-css: custom.css
-revealOptions:
-    transition: 'slide'
-    transitionSpeed: fast
-    center: false
-    slideNumber: "c/t"
-    width: 1000
----
-
 
 
 <div style="text-align: center;">
 <img src=".\assert\lec1\title.png" width="90%" style="margin: 0 auto;">
 </div>
-<!--v-->
-
 
 
 ## 本次课程需要掌握的内容
@@ -40,8 +23,6 @@ revealOptions:
 
 
 
-<!--v-->
-
 
 
 ## 本次课程分为以下的四个部分
@@ -56,17 +37,9 @@ revealOptions:
 
 
 
-<!--v-->
-
-<div class="middle center">
-<div style="width: 100%">
 
 
 # 第一部分：markdown是什么
-
-</div></div>
-
-<!--v-->
 
 ## 什么是markdown
 
@@ -94,21 +67,9 @@ revealOptions:
 - 为你创建的知识库仓库写wiki,方便其他人的使用 
 - 等等等等
 
-<!--v-->
-
-<div class="middle center">
-<div style="width: 100%">
 
 
 # 第二部分：markdown的优点
-
-</div>
-
-</div>
-
-<!--v-->
-
-
 
 ## 为什么我不喜欢用word编写技术文档
 
@@ -121,7 +82,7 @@ revealOptions:
 1.  使用markdown时，我可以专注于**文章的文字**，而不用花很多时间在排版的格式上。
 2. 写技术博客时，通常需要在文章中插入代码，而使用word表示代码的体验很差。
 
-----
+
 
 
 
@@ -130,8 +91,6 @@ revealOptions:
 - [石墨文档官网-在线协同办公系统平台,支持云端多人在线协作文档,表格,幻灯片 (shimo.im)](https://shimo.im/)
 
 
-
-<!--v-->
 
 ## markdown的优势在哪
 
@@ -152,11 +111,7 @@ revealOptions:
 
 # 第三部分：markdown的语法
 
-</div>
 
-</div>
-
-<!--v-->
 
 ## 有关markdown的文档
 
@@ -177,18 +132,8 @@ revealOptions:
 
 
 
-<!--v-->
-
-<div class="middle center">
-<div style="width: 100%">
 
 #  第四部分：可以使用markdown的工具
-
- </div>
-
-</div>
-
-<!--v-->
 
 
 
@@ -199,18 +144,10 @@ revealOptions:
 - `MarkText`  开源的markdown编辑器。 github仓库：[marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. (github.com)](https://github.com/marktext/marktext)
 - `obsidian` 我正在使用的markdown编辑器 官网：[Obsidian - Sharpen your thinking](https://obsidian.md/)
 - `typora` 不开源的付费markdown编辑器。 我个人不推荐，因为没有分屏预览
+- `语雀` 免费的笔记软件，如果做的笔记想要让别人访问，需要开通会员
 
 **代码编辑器，同时也可以用markdown语法做笔记**
 
 - `vscode + Markdown Preview Enhanced插件` 官方文档：[简介 (shd101wyy.github.io)](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) ~~功能非常强大，但我个人不习惯用vscode记笔记~~
 
 - `sublime Text 3  + markdown插件` 知乎上其他人写的入门文章：[快速上手Subline Text的几个Markdown插件 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/649764489)
-
-
-
-
-
-<!--v-->
-
-
-
