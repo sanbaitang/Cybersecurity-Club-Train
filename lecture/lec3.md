@@ -1,22 +1,4 @@
----
-title: lec3 - git以及github的基本使用
-separator: <!--s-->
-verticalSeparator: <!--v-->
-theme: simple
-highlightTheme: github
-css: custom.css
-revealOptions:
-    transition: 'slide'
-    transitionSpeed: fast
-    center: false
-    slideNumber: "c/t"
-    width: 1000
-
----
-
-
-
-## 这次课程，你需要掌握的知识点有
+这次课程，你需要掌握的知识点有
 
 **熟练掌握**
 

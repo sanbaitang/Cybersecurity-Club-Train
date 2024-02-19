@@ -56,8 +56,6 @@
 
   视觉上的样式应该由css决定
 
-<!--v-->
-
 ## 可以用markdown做什么
 
 前面说了，可以使用markdown做笔记，那么具体的使用环境是？
@@ -103,8 +101,6 @@
 3. 使用范围广，简单易学，环境好配。
 
 
-
-<!--v-->
 
 <div class="middle center">
 <div style="width: 100%">
